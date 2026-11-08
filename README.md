@@ -12,11 +12,11 @@ This project is 100% in Python, so if you address the above, you should be able 
 
 The game has 6 players.
 
-Player 1 = Miss_Scarlet = Pink,
-Player 2 = Colonel_Mustard = Blue,
-Player 3 = Professor_Plump = Black,
-Player 4 = Mrs_Peacock = Red,
-Player 5 = Mr_Green = Orange,
+Player 1 = Miss_Scarlet = Pink
+Player 2 = Colonel_Mustard = Blue
+Player 3 = Professor_Plump = Black
+Player 4 = Mrs_Peacock = Red
+Player 5 = Mr_Green = Orange
 Player 6 = Dr_Orchid = Green (The AI Controlled Player)
 
 The upper button says Click to Make a Guess; this is the accusation button.
